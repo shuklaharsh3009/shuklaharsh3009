@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Flutter.<br>
+🔭 I'm currently working on a Flutter App.<br>
 👯 I'm looking to collaborate on Flutter App project Idea and on Youtube in future.<br>
 🤔 I'm looking for help with DSA & CP.<br>
 🌱 I'm currently learning Data Analysis.<br>
